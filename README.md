@@ -72,7 +72,7 @@ The emotion detection is powered by machine learning models trained using scikit
 - **Emotion Vectorizer**: `static/models/emotion_vectorizer.pkl`
 
 ## Project Structure
-
+```
 Paragraph-Analyzer/
 │
 ├── static/
@@ -88,6 +88,7 @@ Paragraph-Analyzer/
 │
 ├── app.py
 └── README.md
+```
 
 ## Contributing
 
